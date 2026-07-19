@@ -2,5 +2,5 @@
 
 hello hello
 
-# Haha, This is my first repository. Wheather is fine.
+# Haha, This is my first repository. Wheather is fine. Thanks.
 
